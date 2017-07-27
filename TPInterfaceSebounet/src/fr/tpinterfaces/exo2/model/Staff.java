@@ -12,7 +12,7 @@ public class Staff {
 		this.employees = new ArrayList<>();
 	}
 
-	public void add(final Employee employee) {
+	public void addEmployee(final Employee employee) {
 		this.employees.add(employee);
 	}
 
